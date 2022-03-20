@@ -1,0 +1,2 @@
+# Full-screen
+&lt;!-- The overlay --> &lt;div id="myNav" class="overlay">    &lt;!-- Button to close the overlay navigation -->   &lt;a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&amp;times;&lt;/a>    &lt;!-- Overlay content -->   &lt;div class="overlay-content">     &lt;a href="#">About&lt;/a>     &lt;a href="#">Services&lt;/a>     &lt;a href="#">Clients&lt;/a>     &lt;a href="#">Contact&lt;/a>   &lt;/div>  &lt;/div>  &lt;!-- Use any element to open/show the overlay navigation menu --> &lt;span onclick="openNav()">open&lt;/span>
